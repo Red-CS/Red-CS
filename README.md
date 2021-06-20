@@ -4,8 +4,8 @@
 <p align="center">
   <img alt="My Logo" src="logo.jpg"/>
 </p>
-<p>
-  ![](https://visitor-badge.glitch.me/badge?page_id=Red-CS.Red-CS)
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Red-CS.Red-CS"/>
 </p>
 
 `AboutMe.js`
