@@ -8,7 +8,7 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=Red-CS.Red-CS"/>
 </p>
 
-`AboutMe.js`
+`Info.js`
 
 ```js
 const redwilliams = {
