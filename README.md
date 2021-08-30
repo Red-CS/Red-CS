@@ -18,7 +18,7 @@ const redwilliams = {
   code:        ["Java", "Python", "Javascript", "Next.js", "Node.js"],
   passions:    ["music", "coding", "videogames", "anime"],
   futureEndeavors: {
-    webDev:    ["Electron.js", "Vue"]
+    webDev:    ["Electron.js", "Vue"],
     gameDev:   "C# in Unity",
   },
   moreAboutMe: "https://redwilliams.dev",
