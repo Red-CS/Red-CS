@@ -21,7 +21,7 @@ const redwilliams = {
     webDev:    ["Electron.js", "Vue"],
     gameDev:   "C# in Unity",
   },
-  moreAboutMe: "https://redwilliams.dev",
+  website: "https://redwilliams.dev",
 };
 ```
 
