@@ -1,0 +1,84 @@
+{
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[sass]": {
+    "editor.defaultFormatter": "syler.sass-indented"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "diffEditor.ignoreTrimWhitespace": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.fontFamily": "'Fira Code', 'Consolas ligaturized v2', Consolas, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "editor.formatOnSave": true,
+  "editor.quickSuggestions": true,
+  "editor.suggestSelection": "first",
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "typescript": "typescriptreact"
+  },
+  "emmet.showSuggestionsAsSnippets": true,
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx",
+    "typescript": "ds"
+  },
+  "emmet.triggerExpansionOnTab": true,
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact"
+  ],
+  "explorer.sortOrder": "type",
+  "files.associations": {
+    "*.js": "javascript"
+  },
+  "files.eol": "\n",
+  "files.exclude": {
+    "**/.classpath": true,
+    "**/.factorypath": true,
+    "**/.project": true,
+    "**/.settings": true
+  },
+  "liveServer.settings.donotShowInfoMsg": true,
+  "polacode.shadow": "none",
+  "polacode.transparentBackground": true,
+  "prettier.tabWidth": 2,
+  "prettier.trailingComma": "none",
+  "python.linting.banditEnabled": false,
+  "python.linting.enabled": true,
+  "python.linting.pylintEnabled": true,
+  "security.workspace.trust.untrustedFiles": "open",
+  "terminal.integrated.defaultProfile.windows": "PowerShell",
+  "terminal.integrated.profiles.windows": {
+    "PowerShell": {
+      "args": ["-ExecutionPolicy", "Bypass"],
+      "icon": "terminal-powershell",
+      "source": "PowerShell"
+    }
+  },
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "workbench.colorCustomizations": {},
+  "workbench.colorTheme": "Spades",
+  "workbench.editorAssociations": {
+    "*.ipynb": "jupyter.notebook.ipynb"
+  },
+  "editor.cursorBlinking": "expand",
+  "editor.cursorSmoothCaretAnimation": true,
+  "vim.mouseSelectionGoesIntoVisualMode": true,
+  "vim.normalModeKeyBindings": [
+    {
+      "before": ["U"],
+      "after": ["<C-r>"]
+    }
+  ],
+  "vim.useCtrlKeys": false,
+  "vim.useSystemClipboard": false,
+  "window.zoomLevel": 0.5227586988632231,
+  "editor.acceptSuggestionOnEnter": "smart"
+}
