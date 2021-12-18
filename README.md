@@ -8,20 +8,20 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=Red-CS.Red-CS"/>
 </p>
 
-`AboutMe.js`
+`Info.js`
 
 ```js
 const redwilliams = {
-  pronouns: ["he/him", "they/them"],
-  contact: "red.devcs@gmail.com",
-  description: "Hi!👋 I'm a Computer Science student and avid developer!",
-  code: ["Java", "Python", "Javascript", "Next.js", "Node.js"],
-  passions: ["music", "coding", "videogames", "anime"],
+  pronouns:    ["he/him", "they/them"],
+  contact:     "red.devcs@gmail.com",
+  description: "Hi!👋🏾 I'm a Computer Science student and avid developer!",
+  code:        ["Java", "Python", "Javascript", "Next.js", "Node.js"],
+  passions:    ["music", "coding", "videogames", "anime"],
   futureEndeavors: {
-    webDev: ["Electron", "Vue", "Nuxt"],
-    gameDev: ["Java", "Unity"],
+    webDev:    ["Electron.js", "Vue"],
+    gameDev:   "C# in Unity",
   },
-  moreAboutMe: "https://redwilliams.dev",
+  website: "https://redwilliams.dev",
 };
 ```
 
