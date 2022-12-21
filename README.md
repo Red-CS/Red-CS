@@ -1,8 +1,7 @@
-<p>
+
   <h1 align="center">Red Williams</h1>
-  <h2 align="center">Computer Engineering at Virginia Tech</h2>
-  <h2 align="center"><em><a target="_blank" href="https://redwilliams.dev">redwilliams.dev</a></em> | <em><a target="_blank" href="mailto:redpwilliams@gmail.com">redpwilliams@gmail.com</a></em><h2>
-</p>
+  <p align="center">Computer Engineering at Virginia Tech</p>
+  <div align="center" ><em><a target="_blank" href="https://redwilliams.dev">redwilliams.dev</a></em>,&#9;<em><a target="_blank" href="mailto:redpwilliams@gmail.com">redpwilliams@gmail.com</a></em></div>
 
 `Info.js`
 
