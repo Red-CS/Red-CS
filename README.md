@@ -13,15 +13,12 @@
 ```js
 const redwilliams = {
   pronouns:    ["he/him", "they/them"],
-  contact:     "red.devcs@gmail.com",
-  description: "Hi!👋🏾 I'm a Computer Science student and avid developer!",
-  code:        ["Java", "Python", "Javascript", "Next.js", "Node.js"],
-  passions:    ["music", "coding", "videogames", "anime"],
-  futureEndeavors: {
-    webDev:    ["Electron.js", "Vue"],
-    gameDev:   "C# in Unity",
-  },
-  website: "https://redwilliams.dev",
+  contact:     "redpwilliams@gmail.com",
+  description: "Hi!👋🏾 I'm a Computer Engineering student and avid developer!",
+  code:        ["Typescript, Java, C],
+  passions:    ["Music", "Coding", "Videogames", "Anime"],
+  futureEndeavors: ["Game Development", "Blender Modeling", "UX/UI Design"],
+  website: "https://redwilliams.dev"
 };
 ```
 
