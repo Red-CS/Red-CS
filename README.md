@@ -1,11 +1,7 @@
 <p>
   <h1 align="center">Red Williams</h1>
-</p>
-<p align="center">
-  <img alt="My Logo" src="logo.jpg"/>
-</p>
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Red-CS.Red-CS"/>
+  <h2 align="center">Computer Engineering at Virginia Tech</h2>
+  <h2 align="center"><em><a target="_blank" href="https://redwilliams.dev">redwilliams.dev</a></em> | <em><a target="_blank" href="mailto:redpwilliams@gmail.com">redpwilliams@gmail.com</a></em><h2>
 </p>
 
 `Info.js`
