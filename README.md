@@ -10,7 +10,7 @@ const redwilliams = {
   pronouns:    ["he/him", "they/them"],
   contact:     "redpwilliams@gmail.com",
   description: "Hi!👋🏾 I'm a Computer Engineering student and avid developer!",
-  code:        ["Typescript, Java, C],
+  code:        ["Typescript", "Java", "C"],
   passions:    ["Music", "Coding", "Videogames", "Anime"],
   futureEndeavors: ["Game Development", "Blender Modeling", "UX/UI Design"],
   website: "https://redwilliams.dev"
