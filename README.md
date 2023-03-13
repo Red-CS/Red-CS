@@ -12,7 +12,7 @@ const redwilliams = {
   description: "Hi!👋🏾 I'm a Computer Engineering student and avid developer!",
   code:        ["Typescript", "Java", "C"],
   passions:    ["Music", "Coding", "Videogames", "Anime"],
-  futureEndeavors: ["Game Development", "Blender Modeling", "UX/UI Design"],
+  learning: ["Game Development", "Continuous Integration", "UX/UI Design"],
   website: "https://redwilliams.dev"
 };
 ```
