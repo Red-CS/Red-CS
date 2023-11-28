@@ -15,7 +15,7 @@ const redwilliams = {
   description: "Hi!👋🏾 I'm a Computer Engineering student at Virginia Tech and an avid developer!",
   passions:    ["Music", "Longboarding/Skateboarding", "Videogames", "Anime"],
   favorites:   ["Typescript", "Java", "C#"],
-  learning:    ["Web Dev", "Game Dev", "CI/CD", "UX/UI Design"],
+  learning:    ["Embedded Systems", "Web Dev", "UX/UI Design"],
   website:     "https://redwilliams.dev"
 };
 ```
